@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I’m Amine — a computer science student.
 I’m fascinated by how systems work and how data shapes the world, transforming the economy, healthcare, and the environment — all of which I’m applying to build a future in data science.
