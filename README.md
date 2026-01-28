@@ -5,10 +5,8 @@ I’m fascinated by how systems work and how data shapes the world, transforming
 
 Alongside my studies, I’m a programmer who enjoys breaking down problems, writing clean logic, and continuously improving how things are built. I’m especially drawn to analytical thinking, optimization, and learning tools that scale.
 
-
-
 Fun Facts :
-Fluent in 4 languages 🌍
-Obsessively curious about data, AI, and systems
-Love building projects and solving problems
-Gym enthusiast 💪
+• Fluent in 4 languages 🌍
+• Obsessively curious about data, AI, and systems
+• Love building projects and solving problems
+• Gym enthusiast 💪
