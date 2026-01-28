@@ -7,7 +7,7 @@ Alongside my studies, I’m a programmer who enjoys breaking down problems, writ
 
 Fun Facts:
 
-• Fluent in four languages 🌍
+• Fluent in 4 languages 🌍
 
 • Obsessed with data, AI, and systems
 
